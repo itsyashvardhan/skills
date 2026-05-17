@@ -1,64 +1,34 @@
 # Skills
 
-Personal skills repository for reusable agent workflows.
-
-## Structure
-
-```text
-Skills/
-├── README.md
-└── skills/
-    ├── agent-browser/
-    ├── browser-use/
-    ├── business-reporting/
-    ├── caveman/
-    ├── client-communication/
-    ├── docx-automation/
-    ├── excel-analysis/
-    ├── excalidraw-diagram/
-    ├── find-skills/
-    ├── graphify/
-    ├── impeccable/
-    ├── karpathy-guidelines/
-    ├── meeting-notes/
-    ├── pptx-generation/
-    ├── requirement-gathering/
-    ├── solution-walkthroughs/
-    ├── spreadsheet-automation/
-    ├── taste-skill/
-    ├── technical-documentation/
-    ├── valyu-best-practices/
-    └── vercel-react-best-practices/
-```
-
-## Source
-
-The base skills were copied from:
-
-```text
-C:\Users\me\.agents\skills
-```
-
-Additional skills:
-
-- `impeccable`: https://github.com/pbakaus/impeccable/releases/tag/skill-v3.1.1
-- `taste-skill`: https://github.com/leonxlnx/taste-skill
-- Custom workflow skills: `docx-automation`, `pptx-generation`, `excel-analysis`, `spreadsheet-automation`, `technical-documentation`, `business-reporting`, `client-communication`, `requirement-gathering`, `meeting-notes`, and `solution-walkthroughs`
-
-## Updating
-
-From this repository root:
-
-```powershell
-Copy-Item -Path C:\Users\me\.agents\skills\* -Destination .\skills -Recurse -Force
-git status
-```
-
-## Publishing
-
-Create a GitHub repository named `openwork-skills`, then run:
-
-```powershell
-git remote add origin https://github.com/<username>/openwork-skills.git
-git push -u origin main
-```
+| Skill | Git repo | Install |
+| --- | --- | --- |
+| `agent-browser` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/agent-browser` |
+| `api-integrations` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/api-integrations` |
+| `browser-use` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/browser-use` |
+| `business-reporting` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/business-reporting` |
+| `caveman` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/caveman` |
+| `client-communication` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/client-communication` |
+| `dashboarding` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/dashboarding` |
+| `demo-engineering` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/demo-engineering` |
+| `docx-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/docx-automation` |
+| `excel-analysis` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/excel-analysis` |
+| `excalidraw-diagram` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/excalidraw-diagram` |
+| `find-skills` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/find-skills` |
+| `graphify` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/graphify` |
+| `impeccable` | `https://github.com/pbakaus/impeccable` | `npx skills install https://github.com/pbakaus/impeccable/tree/skill-v3.1.1/plugin/skills/impeccable` |
+| `incident-debugging` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/incident-debugging` |
+| `jira-confluence` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/jira-confluence` |
+| `karpathy-guidelines` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/karpathy-guidelines` |
+| `meeting-notes` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/meeting-notes` |
+| `n8n` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/n8n` |
+| `pptx-generation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/pptx-generation` |
+| `requirement-gathering` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/requirement-gathering` |
+| `solution-walkthroughs` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/solution-walkthroughs` |
+| `spreadsheet-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/spreadsheet-automation` |
+| `sql-basics` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/sql-basics` |
+| `system-design-lite` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/system-design-lite` |
+| `taste-skill` | `https://github.com/leonxlnx/taste-skill` | `npx skills install https://github.com/leonxlnx/taste-skill/tree/main/skills/taste-skill` |
+| `technical-documentation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/technical-documentation` |
+| `valyu-best-practices` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/valyu-best-practices` |
+| `vercel-react-best-practices` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/vercel-react-best-practices` |
+| `workflow-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/workflow-automation` |
