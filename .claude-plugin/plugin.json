@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "A curated Claude-compatible plugin containing reusable agent skills for browser automation, documentation, diagrams, frontend guidance, data workflows, operations, and engineering productivity.",
+  "author": {
+    "name": "Yashvardhan",
+    "url": "https://github.com/itsyashvardhan"
+  },
+  "repository": "https://github.com/itsyashvardhan/skills",
+  "keywords": [
+    "skills",
+    "claude-code",
+    "openwork",
+    "automation",
+    "documentation",
+    "engineering"
+  ]
+}
