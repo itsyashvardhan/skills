@@ -2,33 +2,33 @@
 
 | Skill | Git repo | Install |
 | --- | --- | --- |
-| `agent-browser` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/agent-browser` |
-| `api-integrations` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/api-integrations` |
-| `browser-use` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/browser-use` |
-| `business-reporting` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/business-reporting` |
-| `caveman` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/caveman` |
-| `client-communication` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/client-communication` |
-| `dashboarding` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/dashboarding` |
-| `demo-engineering` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/demo-engineering` |
-| `docx-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/docx-automation` |
-| `excel-analysis` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/excel-analysis` |
-| `excalidraw-diagram` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/excalidraw-diagram` |
-| `find-skills` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/find-skills` |
-| `graphify` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/graphify` |
-| `impeccable` | `https://github.com/pbakaus/impeccable` | `npx skills install https://github.com/pbakaus/impeccable/tree/skill-v3.1.1/plugin/skills/impeccable` |
-| `incident-debugging` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/incident-debugging` |
-| `jira-confluence` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/jira-confluence` |
-| `karpathy-guidelines` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/karpathy-guidelines` |
-| `meeting-notes` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/meeting-notes` |
-| `n8n` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/n8n` |
-| `pptx-generation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/pptx-generation` |
-| `requirement-gathering` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/requirement-gathering` |
-| `solution-walkthroughs` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/solution-walkthroughs` |
-| `spreadsheet-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/spreadsheet-automation` |
-| `sql-basics` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/sql-basics` |
-| `system-design-lite` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/system-design-lite` |
-| `taste-skill` | `https://github.com/leonxlnx/taste-skill` | `npx skills install https://github.com/leonxlnx/taste-skill/tree/main/skills/taste-skill` |
-| `technical-documentation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/technical-documentation` |
-| `valyu-best-practices` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/valyu-best-practices` |
-| `vercel-react-best-practices` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/vercel-react-best-practices` |
-| `workflow-automation` | `https://github.com/<username>/openwork-skills` | `npx skills install https://github.com/<username>/openwork-skills/tree/main/skills/workflow-automation` |
+| `agent-browser` | `https://github.com/vercel-labs/agent-browser` | [Install](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser "npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser") |
+| `api-integrations` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/api-integrations "npx skills add https://github.com/itsyashvardhan/skills --skill api-integrations") |
+| `browser-use` | `https://github.com/browser-use/browser-use` | [Install](https://github.com/browser-use/browser-use/tree/main/browser_use/skill_cli/skills/browser-use "npx skills add https://github.com/browser-use/browser-use --skill browser-use") |
+| `business-reporting` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/business-reporting "npx skills add https://github.com/itsyashvardhan/skills --skill business-reporting") |
+| `caveman` | `https://github.com/JuliusBrussee/caveman` | [Install](https://github.com/JuliusBrussee/caveman "npx skills add https://github.com/JuliusBrussee/caveman --skill caveman") |
+| `client-communication` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/client-communication "npx skills add https://github.com/itsyashvardhan/skills --skill client-communication") |
+| `dashboarding` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/dashboarding "npx skills add https://github.com/itsyashvardhan/skills --skill dashboarding") |
+| `demo-engineering` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/demo-engineering "npx skills add https://github.com/itsyashvardhan/skills --skill demo-engineering") |
+| `docx-automation` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/docx-automation "npx skills add https://github.com/itsyashvardhan/skills --skill docx-automation") |
+| `excel-analysis` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/excel-analysis "npx skills add https://github.com/itsyashvardhan/skills --skill excel-analysis") |
+| `excalidraw-diagram` | `https://github.com/coleam00/excalidraw-diagram-skill` | [Install](https://github.com/coleam00/excalidraw-diagram-skill "npx skills add https://github.com/coleam00/excalidraw-diagram-skill --skill excalidraw-diagram") |
+| `find-skills` | `https://github.com/vercel-labs/skills` | [Install](https://github.com/vercel-labs/skills/tree/main/skills/find-skills "npx skills add https://github.com/vercel-labs/skills --skill find-skills") |
+| `graphify` | `https://github.com/safishamsi/graphify` | [Install](https://github.com/safishamsi/graphify "npx skills add https://github.com/safishamsi/graphify --skill graphify") |
+| `impeccable` | `https://github.com/pbakaus/impeccable` | [Install](https://github.com/pbakaus/impeccable/tree/skill-v3.1.1/plugin/skills/impeccable "npx skills add https://github.com/pbakaus/impeccable --ref skill-v3.1.1 --skill impeccable") |
+| `incident-debugging` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/incident-debugging "npx skills add https://github.com/itsyashvardhan/skills --skill incident-debugging") |
+| `jira-confluence` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/jira-confluence "npx skills add https://github.com/itsyashvardhan/skills --skill jira-confluence") |
+| `karpathy-guidelines` | `https://github.com/forrestchang/andrej-karpathy-skills` | [Install](https://github.com/forrestchang/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines "npx skills add https://github.com/forrestchang/andrej-karpathy-skills --skill karpathy-guidelines") |
+| `meeting-notes` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/meeting-notes "npx skills add https://github.com/itsyashvardhan/skills --skill meeting-notes") |
+| `n8n` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/n8n "npx skills add https://github.com/itsyashvardhan/skills --skill n8n") |
+| `pptx-generation` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/pptx-generation "npx skills add https://github.com/itsyashvardhan/skills --skill pptx-generation") |
+| `requirement-gathering` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/requirement-gathering "npx skills add https://github.com/itsyashvardhan/skills --skill requirement-gathering") |
+| `solution-walkthroughs` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/solution-walkthroughs "npx skills add https://github.com/itsyashvardhan/skills --skill solution-walkthroughs") |
+| `spreadsheet-automation` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/spreadsheet-automation "npx skills add https://github.com/itsyashvardhan/skills --skill spreadsheet-automation") |
+| `sql-basics` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/sql-basics "npx skills add https://github.com/itsyashvardhan/skills --skill sql-basics") |
+| `system-design-lite` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/system-design-lite "npx skills add https://github.com/itsyashvardhan/skills --skill system-design-lite") |
+| `taste-skill` | `https://github.com/leonxlnx/taste-skill` | [Install](https://github.com/leonxlnx/taste-skill/tree/main/skills/taste-skill "npx skills add https://github.com/leonxlnx/taste-skill --skill taste-skill") |
+| `technical-documentation` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/technical-documentation "npx skills add https://github.com/itsyashvardhan/skills --skill technical-documentation") |
+| `valyu-best-practices` | `https://github.com/valyuAI/skills` | [Install](https://github.com/valyuAI/skills/tree/main/valyu-search/valyu-best-practices "npx skills add https://github.com/valyuAI/skills --skill valyu-best-practices") |
+| `vercel-react-best-practices` | `https://github.com/vercel-labs/agent-skills` | [Install](https://github.com/vercel-labs/agent-skills/tree/main/skills/vercel-react-best-practices "npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-best-practices") |
+| `workflow-automation` | `https://github.com/itsyashvardhan/skills` | [Install](https://github.com/itsyashvardhan/skills/tree/main/skills/workflow-automation "npx skills add https://github.com/itsyashvardhan/skills --skill workflow-automation") |
