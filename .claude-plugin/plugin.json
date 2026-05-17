@@ -3,6 +3,7 @@
   "name": "skills",
   "version": "1.0.0",
   "description": "A curated Claude-compatible plugin containing reusable agent skills for browser automation, documentation, diagrams, frontend guidance, data workflows, operations, and engineering productivity.",
+  "skills": "./skills/",
   "author": {
     "name": "Yashvardhan",
     "url": "https://github.com/itsyashvardhan"
